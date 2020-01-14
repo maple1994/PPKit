@@ -63,7 +63,7 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		88F477DB813468298F5CCEF0 /* Pods_PPKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PPKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E035238B1C33060C0222078 /* PPKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PPKit.podspec; path = ../PPKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8E035238B1C33060C0222078 /* PPKitMaple.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PPKitMaple.podspec; path = ../PPKitMaple.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9734D9F1A984548F3F9D9FBC /* Pods-PPKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PPKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PPKit_Tests/Pods-PPKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D80CB249BA7EB29A86E070A8 /* Pods-PPKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PPKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PPKit_Example/Pods-PPKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E5DC6658524DDACA685B3CCE /* Pods-PPKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PPKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PPKit_Example/Pods-PPKit_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -189,7 +189,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				8E035238B1C33060C0222078 /* PPKit.podspec */,
+				8E035238B1C33060C0222078 /* PPKitMaple.podspec */,
 				2A1C1FDBD58F5ECE145E9BEE /* README.md */,
 				6EB35F28485B6E67CF8A77D7 /* LICENSE */,
 			);

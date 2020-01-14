@@ -22,6 +22,5 @@
 @property (assign, nonatomic) CGPoint xst_origin;
 @property (assign, nonatomic) CGFloat xst_centerX;
 @property (assign, nonatomic) CGFloat xst_centerY;
-@property (assign, nonatomic) BOOL xst_hidden;
 
 @end

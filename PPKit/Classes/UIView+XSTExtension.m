@@ -103,26 +103,6 @@
     self.center       = newCenter;
 }
 
-- (void)setXst_hidden:(BOOL)xst_hidden
-{
-    if (xst_hidden) {
-        self.alpha = 1;
-        self.hidden = NO;
-        [UIView animateWithDuration:0.25 animations:^{
-            self.alpha = 0;
-        } completion:^(BOOL finished) {
-            self.hidden = YES;
-        }];
-    }else {
-        self.alpha = 0;
-        self.hidden = NO;
-        [UIView animateWithDuration:0.25 animations:^{
-            self.alpha = 1;
-        } completion:^(BOOL finished) {
-        }];
-    }
-}
-
 - (CGFloat)xst_left {
     return self.frame.origin.x;
 }
