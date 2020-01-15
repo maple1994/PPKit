@@ -8,21 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		0C65E278F4D9DA759288BBE5ED83E4CA /* Pods-PPKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 328DB00E514214695A1D50D4C67BF0B6 /* Pods-PPKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2B1A7AAE0E077E3A000F488608C5152D /* UIColor+XSTExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F3BD73E61889FB50E85A9E606F6AFD4 /* UIColor+XSTExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0D5F30538774DE45AC8F6651F05C8299 /* PPKitMaple-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9995FE9F700D1375482796B11D5DE730 /* PPKitMaple-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		32D5B0C52DD9750A755DD0D40E46DA19 /* UIView+XSTExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 8436CEC47D80BA231EE086B8EAD12F3C /* UIView+XSTExtension.m */; };
+		43739A3577092EAAF830436618AC7FEF /* PPKitMaple-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E98D9B9F644E01ABBF2C0B1704EE4E57 /* PPKitMaple-dummy.m */; };
 		54E1D256E002045173A951CA859A7277 /* Pods-PPKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D511CC605F206535A0C971C12B166D4 /* Pods-PPKit_Example-dummy.m */; };
-		635791F550D96C88EE34C08BDF625C1E /* PPUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = E9CFF2AE14551EFA1B74C0D5ED704655 /* PPUtil.m */; };
+		600855C0A155E4EAA8F9E8367EE3318A /* PPUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 7048F0B8E38D64AEBC2AA6D853A40D1C /* PPUtil.m */; };
 		63B7C3CEF9AA0FB927FE7CA206F644AE /* Pods-PPKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F5818EB5B3C565CDE02530E0679A2DCB /* Pods-PPKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6440907A0BAA1128CAFD725D2CEA2758 /* PPUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 7D843C910C6B64EB651C8EAF23440E18 /* PPUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6CE89C1A10AB6C467F80A34F94CFCE68 /* UIView+XSTExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = E2C3AEA986DFC3A85B06BA33CA87FBA9 /* UIView+XSTExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		71109D4B487EC67C67F8ECF353E0EE91 /* PPKitMaple-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 40E4CE3F4438F1F9AAD46E253EC08151 /* PPKitMaple-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8D71285B2B436C779A0653BE0AC682FE /* UIColor+XSTExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 5869469CD1E9CD6594720EA86D6B4CA2 /* UIColor+XSTExtension.m */; };
-		A6813175C0573E327071580C7416E06B /* PPKitMaple-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DEB518FFA773DB5B629977349D2FA8C1 /* PPKitMaple-dummy.m */; };
-		AE6EE0E87737A2EA1D68D2A733A03C98 /* PPKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E420F47A53F6E030194F19B9098FE80 /* PPKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7DC90CDF74DE6139A505386DC98BE18E /* PPKit.h in Headers */ = {isa = PBXBuildFile; fileRef = B942B32C9B73F412AF29803CCBB6E827 /* PPKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		823ADC6F92F8C544384F1851897D0E35 /* UIView+XSTExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = E0820A273D8259CE9B5221EB680E6A6B /* UIView+XSTExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B4E3A8E9B7C59C7E1157A8465B2B5671 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		BDD48BD18C5E99F76D39283E5C68FC40 /* Pods-PPKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 51FED57F7CE19B624EF83812F4FEF3B8 /* Pods-PPKit_Tests-dummy.m */; };
-		C6D7F2B692F510E0D1582F1835207FCD /* UIView+XSTExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A3DD59274870C2ECF3058B483288FA9 /* UIView+XSTExtension.m */; };
+		C78A5677014D5BF592F5AB01948BAD0F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 1025135E271D2DFF685BCED2C5B05787 /* ReplaceMe.m */; };
+		C7C082520002214F74AE5E0337532367 /* PPUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 209387389C10DDB9A15DB6F8EAF96A40 /* PPUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DBCE1D8EA4F35FBCEDCF2701140856BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		F5F7EFEC288E4B00577F14A7F673BEB4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		E560479E4E6599FF883227C181228A7F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,51 +43,50 @@
 
 /* Begin PBXFileReference section */
 		0DA6C48555CA17A5C81FC5097C3A670C /* Pods-PPKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PPKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		17C49FBBAF4E9EB31BC09C9437C77A41 /* PPKitMaple.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = PPKitMaple.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1025135E271D2DFF685BCED2C5B05787 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = PPKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		1797E550E462608E83EA9B13B3479AC8 /* PPKitMaple.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = PPKitMaple.modulemap; sourceTree = "<group>"; };
+		19EEBF2521A4C1E7B3C9179F44A37CF1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		1E21AEF2580EE6621C914AC0A269CD5D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		1E96072ACEF119BD609925A68221227C /* Pods_PPKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PPKit_Example.framework; path = "Pods-PPKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		209387389C10DDB9A15DB6F8EAF96A40 /* PPUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PPUtil.h; sourceTree = "<group>"; };
 		24347E99E934B79E869E73600E147785 /* Pods-PPKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PPKit_Tests-Info.plist"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		328DB00E514214695A1D50D4C67BF0B6 /* Pods-PPKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PPKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		33B6F4FA8A730B4792E03BECCEA0BE15 /* Pods-PPKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PPKit_Tests.modulemap"; sourceTree = "<group>"; };
-		3541F69BA47AAB99357878B066D4BBCC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		40E4CE3F4438F1F9AAD46E253EC08151 /* PPKitMaple-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PPKitMaple-umbrella.h"; sourceTree = "<group>"; };
 		495AF4BDC6BAA4A46342A0CB5AE25A55 /* PPKitMaple.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PPKitMaple.framework; path = PPKitMaple.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D511CC605F206535A0C971C12B166D4 /* Pods-PPKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PPKit_Example-dummy.m"; sourceTree = "<group>"; };
 		51FED57F7CE19B624EF83812F4FEF3B8 /* Pods-PPKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PPKit_Tests-dummy.m"; sourceTree = "<group>"; };
 		55081C980544E90FE907B1CBDD0C51C2 /* Pods-PPKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PPKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5869469CD1E9CD6594720EA86D6B4CA2 /* UIColor+XSTExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+XSTExtension.m"; path = "PPKit/Classes/Category/UIColor+XSTExtension.m"; sourceTree = "<group>"; };
 		67D4CF4A2C9C6A4331819BA0BA44D448 /* Pods-PPKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PPKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		6A3DD59274870C2ECF3058B483288FA9 /* UIView+XSTExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+XSTExtension.m"; path = "PPKit/Classes/Category/UIView+XSTExtension.m"; sourceTree = "<group>"; };
-		6F3BD73E61889FB50E85A9E606F6AFD4 /* UIColor+XSTExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+XSTExtension.h"; path = "PPKit/Classes/Category/UIColor+XSTExtension.h"; sourceTree = "<group>"; };
 		6FE6FE76379FA2EB8A064917B169FFE4 /* Pods-PPKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PPKit_Example-Info.plist"; sourceTree = "<group>"; };
+		7048F0B8E38D64AEBC2AA6D853A40D1C /* PPUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = PPUtil.m; sourceTree = "<group>"; };
 		76B487C9EB5FDF94842DDFB074027FD9 /* Pods-PPKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PPKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		7D843C910C6B64EB651C8EAF23440E18 /* PPUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPUtil.h; path = PPKit/Classes/Core/PPUtil.h; sourceTree = "<group>"; };
+		8436CEC47D80BA231EE086B8EAD12F3C /* UIView+XSTExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+XSTExtension.m"; sourceTree = "<group>"; };
+		8DBB746158AC1D07BD9FD4F08A508813 /* PPKitMaple-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PPKitMaple-prefix.pch"; sourceTree = "<group>"; };
 		8F3B747683C16A01CE8F7412EFC72922 /* Pods-PPKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PPKit_Example.modulemap"; sourceTree = "<group>"; };
 		926B491980BADE4C1EFE16F335BB3CA5 /* Pods-PPKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PPKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		97A990047715953EDE8F2234E56DC580 /* Pods-PPKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PPKit_Example-frameworks.sh"; sourceTree = "<group>"; };
+		9995FE9F700D1375482796B11D5DE730 /* PPKitMaple-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PPKitMaple-umbrella.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E420F47A53F6E030194F19B9098FE80 /* PPKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PPKit.h; path = PPKit/Classes/Core/PPKit.h; sourceTree = "<group>"; };
-		A949880B08D03E86BF936C7A67C3C817 /* PPKitMaple-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "PPKitMaple-Info.plist"; sourceTree = "<group>"; };
+		A589D8EB585D44521A26E7F4D1B679C2 /* PPKitMaple.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = PPKitMaple.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AB379100DB966E5DEE8B63D62D3D8A38 /* Pods-PPKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PPKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		AB9C78F219B8B026AB57CE01F578BF04 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		B192DADF53C872997E0AFD0CB0312AA6 /* PPKitMaple.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PPKitMaple.xcconfig; sourceTree = "<group>"; };
+		B942B32C9B73F412AF29803CCBB6E827 /* PPKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PPKit.h; sourceTree = "<group>"; };
 		B94C95E7294A070375C25474425D879C /* Pods_PPKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PPKit_Tests.framework; path = "Pods-PPKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE2B1929C098CECED7EE9D9FC6FB149D /* Pods-PPKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PPKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		DEB518FFA773DB5B629977349D2FA8C1 /* PPKitMaple-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PPKitMaple-dummy.m"; sourceTree = "<group>"; };
-		E2C3AEA986DFC3A85B06BA33CA87FBA9 /* UIView+XSTExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+XSTExtension.h"; path = "PPKit/Classes/Category/UIView+XSTExtension.h"; sourceTree = "<group>"; };
+		E0820A273D8259CE9B5221EB680E6A6B /* UIView+XSTExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+XSTExtension.h"; sourceTree = "<group>"; };
 		E8ADEFCB8F93FC9157403D48A38ABF8B /* Pods-PPKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PPKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		E9CFF2AE14551EFA1B74C0D5ED704655 /* PPUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PPUtil.m; path = PPKit/Classes/Core/PPUtil.m; sourceTree = "<group>"; };
-		EB0180984F587B7720E52239702BCFD0 /* PPKitMaple.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = PPKitMaple.modulemap; sourceTree = "<group>"; };
+		E98D9B9F644E01ABBF2C0B1704EE4E57 /* PPKitMaple-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PPKitMaple-dummy.m"; sourceTree = "<group>"; };
+		F034AAEB4F940E55F98F2437404115A7 /* PPKitMaple-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "PPKitMaple-Info.plist"; sourceTree = "<group>"; };
 		F5818EB5B3C565CDE02530E0679A2DCB /* Pods-PPKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PPKit_Tests-umbrella.h"; sourceTree = "<group>"; };
-		FCFF65BB7E19A6FF302017A3230C3264 /* PPKitMaple.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PPKitMaple.xcconfig; sourceTree = "<group>"; };
-		FF2D1A97877F28AADEE9B335348B39DC /* PPKitMaple-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PPKitMaple-prefix.pch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2194687381561716F9EE9E3112417B04 /* Frameworks */ = {
+		337BC54B7CE84592AA2B41EFE86BAA34 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5F7EFEC288E4B00577F14A7F673BEB4 /* Foundation.framework in Frameworks */,
+				E560479E4E6599FF883227C181228A7F /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,13 +109,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		05EEA02A9D920D5533D8B8BEB3AF768E /* PPKitMaple */ = {
+		1B048A2493AF8F1683A8CE151BA8D050 /* PPKitMaple */ = {
 			isa = PBXGroup;
 			children = (
-				4D3CC2FBE1636545E2F71AC78D8C12C1 /* Category */,
-				A0325E9A391C47EF29938D27A95D3FF1 /* Core */,
-				4FC88DB7550A2674D0298FA3EB8E916B /* Pod */,
-				A1A00403C343F0F2641A7E7D647C53C1 /* Support Files */,
+				1025135E271D2DFF685BCED2C5B05787 /* ReplaceMe.m */,
+				712A89A296B0CFBB9DBEEB8AA9399B1B /* Category */,
+				93D2CEAB2760EF1C89A70C296FAB486B /* Core */,
+				31DBD551E5A0578F9D2F946E5000A9B5 /* Pod */,
+				7E68511004C0927E68E74D3EA1F711BA /* Support Files */,
 			);
 			name = PPKitMaple;
 			path = ../..;
@@ -130,6 +129,14 @@
 				28B340825DAB42CBB835E628675B6861 /* Pods-PPKit_Tests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		26733FD86197C3FF40812B736DEDDD5F /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1B048A2493AF8F1683A8CE151BA8D050 /* PPKitMaple */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		28B340825DAB42CBB835E628675B6861 /* Pods-PPKit_Tests */ = {
@@ -148,57 +155,49 @@
 			path = "Target Support Files/Pods-PPKit_Tests";
 			sourceTree = "<group>";
 		};
-		4D3CC2FBE1636545E2F71AC78D8C12C1 /* Category */ = {
+		31DBD551E5A0578F9D2F946E5000A9B5 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				6F3BD73E61889FB50E85A9E606F6AFD4 /* UIColor+XSTExtension.h */,
-				5869469CD1E9CD6594720EA86D6B4CA2 /* UIColor+XSTExtension.m */,
-				E2C3AEA986DFC3A85B06BA33CA87FBA9 /* UIView+XSTExtension.h */,
-				6A3DD59274870C2ECF3058B483288FA9 /* UIView+XSTExtension.m */,
-			);
-			name = Category;
-			sourceTree = "<group>";
-		};
-		4FC88DB7550A2674D0298FA3EB8E916B /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				3541F69BA47AAB99357878B066D4BBCC /* LICENSE */,
-				17C49FBBAF4E9EB31BC09C9437C77A41 /* PPKitMaple.podspec */,
-				AB9C78F219B8B026AB57CE01F578BF04 /* README.md */,
+				1E21AEF2580EE6621C914AC0A269CD5D /* LICENSE */,
+				A589D8EB585D44521A26E7F4D1B679C2 /* PPKitMaple.podspec */,
+				19EEBF2521A4C1E7B3C9179F44A37CF1 /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		961C8F71EC45C71E54F50271ED65BBEE /* Development Pods */ = {
+		712A89A296B0CFBB9DBEEB8AA9399B1B /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				05EEA02A9D920D5533D8B8BEB3AF768E /* PPKitMaple */,
+				E0820A273D8259CE9B5221EB680E6A6B /* UIView+XSTExtension.h */,
+				8436CEC47D80BA231EE086B8EAD12F3C /* UIView+XSTExtension.m */,
 			);
-			name = "Development Pods";
+			name = Category;
+			path = PPKit/Classes/Category;
 			sourceTree = "<group>";
 		};
-		A0325E9A391C47EF29938D27A95D3FF1 /* Core */ = {
+		7E68511004C0927E68E74D3EA1F711BA /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				9E420F47A53F6E030194F19B9098FE80 /* PPKit.h */,
-				7D843C910C6B64EB651C8EAF23440E18 /* PPUtil.h */,
-				E9CFF2AE14551EFA1B74C0D5ED704655 /* PPUtil.m */,
-			);
-			name = Core;
-			sourceTree = "<group>";
-		};
-		A1A00403C343F0F2641A7E7D647C53C1 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				EB0180984F587B7720E52239702BCFD0 /* PPKitMaple.modulemap */,
-				FCFF65BB7E19A6FF302017A3230C3264 /* PPKitMaple.xcconfig */,
-				DEB518FFA773DB5B629977349D2FA8C1 /* PPKitMaple-dummy.m */,
-				A949880B08D03E86BF936C7A67C3C817 /* PPKitMaple-Info.plist */,
-				FF2D1A97877F28AADEE9B335348B39DC /* PPKitMaple-prefix.pch */,
-				40E4CE3F4438F1F9AAD46E253EC08151 /* PPKitMaple-umbrella.h */,
+				1797E550E462608E83EA9B13B3479AC8 /* PPKitMaple.modulemap */,
+				B192DADF53C872997E0AFD0CB0312AA6 /* PPKitMaple.xcconfig */,
+				E98D9B9F644E01ABBF2C0B1704EE4E57 /* PPKitMaple-dummy.m */,
+				F034AAEB4F940E55F98F2437404115A7 /* PPKitMaple-Info.plist */,
+				8DBB746158AC1D07BD9FD4F08A508813 /* PPKitMaple-prefix.pch */,
+				9995FE9F700D1375482796B11D5DE730 /* PPKitMaple-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/PPKitMaple";
+			sourceTree = "<group>";
+		};
+		93D2CEAB2760EF1C89A70C296FAB486B /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				B942B32C9B73F412AF29803CCBB6E827 /* PPKit.h */,
+				209387389C10DDB9A15DB6F8EAF96A40 /* PPUtil.h */,
+				7048F0B8E38D64AEBC2AA6D853A40D1C /* PPUtil.m */,
+			);
+			name = Core;
+			path = PPKit/Classes/Core;
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -213,7 +212,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				961C8F71EC45C71E54F50271ED65BBEE /* Development Pods */,
+				26733FD86197C3FF40812B736DEDDD5F /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				F6DB34DF2373E376F3D03F48077AD53F /* Products */,
 				239F3716DE91685117507D44C0BFD5FF /* Targets Support Files */,
@@ -258,23 +257,22 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		0259FBB4526A48EB0E9CAFDEF077F5F2 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7DC90CDF74DE6139A505386DC98BE18E /* PPKit.h in Headers */,
+				0D5F30538774DE45AC8F6651F05C8299 /* PPKitMaple-umbrella.h in Headers */,
+				C7C082520002214F74AE5E0337532367 /* PPUtil.h in Headers */,
+				823ADC6F92F8C544384F1851897D0E35 /* UIView+XSTExtension.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5E671B103DD4B3B4CC63176A78CD94F3 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				0C65E278F4D9DA759288BBE5ED83E4CA /* Pods-PPKit_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D07D579EE2599474694D4DDEA6A929AE /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				AE6EE0E87737A2EA1D68D2A733A03C98 /* PPKit.h in Headers */,
-				71109D4B487EC67C67F8ECF353E0EE91 /* PPKitMaple-umbrella.h in Headers */,
-				6440907A0BAA1128CAFD725D2CEA2758 /* PPUtil.h in Headers */,
-				2B1A7AAE0E077E3A000F488608C5152D /* UIColor+XSTExtension.h in Headers */,
-				6CE89C1A10AB6C467F80A34F94CFCE68 /* UIView+XSTExtension.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,12 +308,12 @@
 		};
 		51E67406BDA9DE4A1D6B5BC7EF3E334A /* PPKitMaple */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A2F945BD9669749C15FD703F4E9C656C /* Build configuration list for PBXNativeTarget "PPKitMaple" */;
+			buildConfigurationList = F939ED7FCCC532DBF0C585CAEE8B5160 /* Build configuration list for PBXNativeTarget "PPKitMaple" */;
 			buildPhases = (
-				D07D579EE2599474694D4DDEA6A929AE /* Headers */,
-				40F022DB5440C25836B2C720188F9BEA /* Sources */,
-				2194687381561716F9EE9E3112417B04 /* Frameworks */,
-				D234FBD3070FF796888BDEFAE36D17AF /* Resources */,
+				0259FBB4526A48EB0E9CAFDEF077F5F2 /* Headers */,
+				AE625E9A286B6C4C8C22B9C2C0D3F7C1 /* Sources */,
+				337BC54B7CE84592AA2B41EFE86BAA34 /* Frameworks */,
+				D32CE396C3A9C2698AE8ECD5F25FFBA0 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -388,7 +386,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D234FBD3070FF796888BDEFAE36D17AF /* Resources */ = {
+		D32CE396C3A9C2698AE8ECD5F25FFBA0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -398,22 +396,22 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		40F022DB5440C25836B2C720188F9BEA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A6813175C0573E327071580C7416E06B /* PPKitMaple-dummy.m in Sources */,
-				635791F550D96C88EE34C08BDF625C1E /* PPUtil.m in Sources */,
-				8D71285B2B436C779A0653BE0AC682FE /* UIColor+XSTExtension.m in Sources */,
-				C6D7F2B692F510E0D1582F1835207FCD /* UIView+XSTExtension.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		877E50511B1646159B7AC3BB7FC23821 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				BDD48BD18C5E99F76D39283E5C68FC40 /* Pods-PPKit_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AE625E9A286B6C4C8C22B9C2C0D3F7C1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43739A3577092EAAF830436618AC7FEF /* PPKitMaple-dummy.m in Sources */,
+				600855C0A155E4EAA8F9E8367EE3318A /* PPUtil.m in Sources */,
+				C78A5677014D5BF592F5AB01948BAD0F /* ReplaceMe.m in Sources */,
+				32D5B0C52DD9750A755DD0D40E46DA19 /* UIView+XSTExtension.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -603,9 +601,9 @@
 			};
 			name = Release;
 		};
-		7D8A6CAF7D4447FC8937DCA46E9885B7 /* Release */ = {
+		4EDEB3D39F01B5ABACFF9DF61DFA94FE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCFF65BB7E19A6FF302017A3230C3264 /* PPKitMaple.xcconfig */;
+			baseConfigurationReference = B192DADF53C872997E0AFD0CB0312AA6 /* PPKitMaple.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -629,11 +627,10 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -699,37 +696,6 @@
 			};
 			name = Debug;
 		};
-		B1FFCF1AB97B1D7ABFBF1CCA8699E976 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCFF65BB7E19A6FF302017A3230C3264 /* PPKitMaple.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/PPKitMaple/PPKitMaple-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/PPKitMaple/PPKitMaple-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/PPKitMaple/PPKitMaple.modulemap";
-				PRODUCT_MODULE_NAME = PPKitMaple;
-				PRODUCT_NAME = PPKitMaple;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		CFFA53CC42C87487AF1F0284229DD32E /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BE2B1929C098CECED7EE9D9FC6FB149D /* Pods-PPKit_Example.release.xcconfig */;
@@ -764,6 +730,38 @@
 			};
 			name = Release;
 		};
+		DC12A2296833EB1B2D2AF580C0F29ABF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B192DADF53C872997E0AFD0CB0312AA6 /* PPKitMaple.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/PPKitMaple/PPKitMaple-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/PPKitMaple/PPKitMaple-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/PPKitMaple/PPKitMaple.modulemap";
+				PRODUCT_MODULE_NAME = PPKitMaple;
+				PRODUCT_NAME = PPKitMaple;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -785,20 +783,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A2F945BD9669749C15FD703F4E9C656C /* Build configuration list for PBXNativeTarget "PPKitMaple" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				B1FFCF1AB97B1D7ABFBF1CCA8699E976 /* Debug */,
-				7D8A6CAF7D4447FC8937DCA46E9885B7 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		C11159028C2F0448C191048DCCF41DA5 /* Build configuration list for PBXNativeTarget "Pods-PPKit_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2654BF2D93BEAD7DA1C0ED788BA08B5C /* Debug */,
 				CFFA53CC42C87487AF1F0284229DD32E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F939ED7FCCC532DBF0C585CAEE8B5160 /* Build configuration list for PBXNativeTarget "PPKitMaple" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4EDEB3D39F01B5ABACFF9DF61DFA94FE /* Debug */,
+				DC12A2296833EB1B2D2AF580C0F29ABF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

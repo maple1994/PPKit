@@ -18,6 +18,7 @@
   "platforms": {
     "ios": "8.0"
   },
+  "source_files": "PPKit/Classes/**/*",
   "subspecs": [
     {
       "name": "Core",

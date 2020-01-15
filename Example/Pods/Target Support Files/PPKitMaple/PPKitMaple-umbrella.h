@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "UIColor+XSTExtension.h"
 #import "UIView+XSTExtension.h"
 #import "PPKit.h"
 #import "PPUtil.h"

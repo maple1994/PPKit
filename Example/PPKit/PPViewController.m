@@ -18,9 +18,6 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    CGFloat val = [[PPUtil randomColor] xst_grayValue];
-    
-    NSLog(@"%f-%f", val, self.view.xst_h);
 }
 
 - (void)didReceiveMemoryWarning
