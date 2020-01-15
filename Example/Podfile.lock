@@ -1,10 +1,10 @@
 PODS:
-  - PPKitMaple (0.0.2):
-    - PPKitMaple/Category (= 0.0.2)
-    - PPKitMaple/Core (= 0.0.2)
-  - PPKitMaple/Category (0.0.2):
+  - PPKitMaple (0.0.3):
+    - PPKitMaple/Category (= 0.0.3)
+    - PPKitMaple/Core (= 0.0.3)
+  - PPKitMaple/Category (0.0.3):
     - PPKitMaple/Core
-  - PPKitMaple/Core (0.0.2)
+  - PPKitMaple/Core (0.0.3)
 
 DEPENDENCIES:
   - PPKitMaple (from `../`)
@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PPKitMaple: 4dfd221d5fdbe986973057a305fb54956dc2442f
+  PPKitMaple: 835676edde2ecd6971d5b722708ac99d87032b70
 
 PODFILE CHECKSUM: 451af1ea28029bbeec0e33fbad0597079d8b4efe
 
