@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## PPKit
+## PPKitMaple
 
 Copyright (c) 2020 maple1994 <305554601@qq.com>
 

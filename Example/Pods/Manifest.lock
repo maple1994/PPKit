@@ -1,16 +1,21 @@
 PODS:
-  - PPKit (0.1.0)
+  - PPKitMaple (0.0.2):
+    - PPKitMaple/Category (= 0.0.2)
+    - PPKitMaple/Core (= 0.0.2)
+  - PPKitMaple/Category (0.0.2):
+    - PPKitMaple/Core
+  - PPKitMaple/Core (0.0.2)
 
 DEPENDENCIES:
-  - PPKit (from `../`)
+  - PPKitMaple (from `../`)
 
 EXTERNAL SOURCES:
-  PPKit:
+  PPKitMaple:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PPKit: 3e836fb64d0e0c14f1915d4a1ebc9f3584066ae9
+  PPKitMaple: 4dfd221d5fdbe986973057a305fb54956dc2442f
 
-PODFILE CHECKSUM: b9d0cfaa88bd52e099c05fb579126140f98d001b
+PODFILE CHECKSUM: 451af1ea28029bbeec0e33fbad0597079d8b4efe
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4

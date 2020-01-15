@@ -2,8 +2,9 @@ use_frameworks!
 
 platform :ios, '8.0'
 
+source 'https://github.com/CocoaPods/Specs.git'
 target 'PPKit_Example' do
-  pod 'PPKit', :path => '../'
+  pod 'PPKitMaple', :path => '../'
 
   target 'PPKit_Tests' do
     inherit! :search_paths

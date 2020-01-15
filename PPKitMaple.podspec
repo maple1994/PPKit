@@ -29,8 +29,18 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-
   s.source_files = 'PPKit/Classes/**/*'
+  
+  s.subspec 'Core' do |core|
+      core.source_files = 'PPKit/Classes/Core/**/*'
+      core.public_header_files = 'PPKit/Classes/Core/**/*.h'
+  end
+  s.subspec 'Category' do |category|
+      category.source_files = 'PPKit/Classes/Category/**/*.{h,m}'
+      category.public_header_files = 'PPKit/Classes/Category/**/*.h'
+      category.dependency 'PPKitMaple/Core'
+  end
+  
   
   # s.resource_bundles = {
   #   'PPKit' => ['PPKit/Assets/*.png']

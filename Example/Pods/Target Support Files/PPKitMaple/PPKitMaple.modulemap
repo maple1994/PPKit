@@ -1,0 +1,6 @@
+framework module PPKitMaple {
+  umbrella header "PPKitMaple-umbrella.h"
+
+  export *
+  module * { export * }
+}
